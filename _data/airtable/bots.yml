@@ -1,0 +1,1012 @@
+---
+- id: rec01DdVPjDs2VFth
+  fields:
+    Name: PollQ
+    Description: Poll Meets Chat
+    Category:
+    - recr1FF5zEE4z92G2
+    URL: https://www.pollq.io
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec01Q2zCC10TVJMC
+  fields:
+    Name: Groove
+    Description: Simple help desk for teams
+    Category:
+    - rectRMmuXs79qEVF7
+    URL: https://slack.com/apps/A02MQ7G50-groove
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec03BBqkzQMRGvye
+  fields:
+    Name: TrailerBot
+    Description: I search Trailers and Cinema's news for you.
+    Category:
+    - recASEQqrzcWuEMNM
+    URL: https://www.messenger.com/t/277170566002699
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec03oetf4lZhbvV3
+  fields:
+    Name: Chatty
+    Description: Anonymously chat with strangers all around the world in any language
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://www.m.me/ChattyMessengerBot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec03pKmPQ9sjJdtt
+  fields:
+    Name: Bitium
+    Description: Application and asset management for teams
+    Category:
+    - rec9iazVll3JAhchr
+    URL: https://slack.com/apps/A0F81FK70-bitium
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec04zZdX7W6BTGaa
+  fields:
+    Name: Parenting Advisor
+    Description: News and personalized parenting advices.
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: http://m.me/BabyKidsAdvisor
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0BGc1eoMGu9pj1
+  fields:
+    Name: Wonk
+    Description: Stay informed about the Presidential Debates
+    Category:
+    - recP4XIdef1FqHfAx
+    URL: https://www.messenger.com/t/talktowonk
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0CkVvt9mCVFZ0v
+  fields:
+    Name: So you think you can Startup
+    Description: Think you know startups? Try out our bot
+    Category:
+    - recE4gu5tJ0gisIQU
+    URL: https://m.me/1756040327946982
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0DRRzpuk777v9q
+  fields:
+    Name: Taxbot
+    Description: Making taxes suck less
+    Category:
+    - recXZu1Sj7Hwd7BZq
+    URL: https://slack.com/oauth/pick?client_id=8708621860.156896894530&scope=commands%2Cbot%2Cchat%3Awrite%3Abot
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0FjDQqLinX7x3M
+  fields:
+    Name: Cutting Edge
+    Description: Help your BFF
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.facebook.com/thecuttingedgeonsequel
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec0KWmgTtp73cNJv
+  fields:
+    Name: Statsbot
+    Description: "Get all your data insights right into Slack \U0001F514  \U0001F4C8
+      \U0001F4A1\U0001F4B0"
+    Category:
+    - recr1FF5zEE4z92G2
+    URL: https://slack.com/apps/A0GP9E18S-statsbot
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0LwcAiLcDwaQd2
+  fields:
+    Name: Thirty Seconds To Mars
+    Description: The Official Thirty Seconds To Mars Bot
+    Category:
+    - recASEQqrzcWuEMNM
+    URL: https://m.me/thirtysecondstomars
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0N2wNxJMkhc7NH
+  fields:
+    Name: MeteOvunque
+    Description: Your AI weather forecast chatbot
+    Category:
+    - rec24heVGZi41W8BL
+    URL: http://m.me/meteovunque
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0Q1pmARihjGiFj
+  fields:
+    Name: Lyte
+    Description: 'Lyte provides insights to help your team stay happy and productive.
+      :grinning:'
+    Category:
+    - recvsdNOkg4DVujU3
+    URL: https://slack.com/apps/A1TT70BMW-lyte
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0RWPKCMxGH52m9
+  fields:
+    Name: Gift Bot
+    Description: 'Real-time gift suggestions for Facebook friends from MyGiftBot '
+    Category:
+    - recD2juXgE6qmjKeO
+    URL: https://www.messenger.com/t/mygiftbot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec0RjAYNuykI7sXF
+  fields:
+    Name: Ranktab
+    Description: Fast and simple chatbot for making multi-option group decisions
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://slack.com/oauth/pick?scope=incoming-webhook%2Ccommands%2Cbot%2Cchannels%3Aread%2Cchannels%3Awrite%2Cusers%3Aread&client_id=2977781086.85130976354
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0XFdfCtfgcAgIK
+  fields:
+    Name: Slackzon
+    Description: Simple Amazon product search in Slack
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://botlist.co/bots/87-slackzon
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0cjLcpMCqoCGZi
+  fields:
+    Name: The Urban Tourist
+    Description: 'A chat bot guide to Dublin''s trending food, coffee & happenings. '
+    Category:
+    - recAyeJ719h1opGig
+    URL: https://m.me/180314379077330
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0dk7zB3bHFD5GU
+  fields:
+    Name: HappyOffice
+    Description: Creating happier workplaces through anonymous employee feedback and
+      people analytics.
+    Category:
+    - recr1FF5zEE4z92G2
+    URL: https://slack.com/apps/A4AKY26MV-happyoffice
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0ev1jDrfrK0WmT
+  fields:
+    Name: Any.do
+    Description: Keep track of tasks and projects with Any.do, the simplest most powerful
+      app for getting things done!
+    Category:
+    - recvsdNOkg4DVujU3
+    URL: https://slack.com/apps/A3LU9DDEU-anydo
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec0hPlEYIdvpLBmK
+  fields:
+    Name: NBA
+    Description: Chat with the official NBA bot on Messenger.
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: http://m.me/NBA
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0jQ1P84ajm0LkD
+  fields:
+    Name: Social Geek Bot
+    Description: Automating Jesse Stay the "Social" Geek
+    Category:
+    - recE4gu5tJ0gisIQU
+    URL: https://www.messenger.com/t/stay
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0q7yQRy4pjHp6K
+  fields:
+    Name: Price Drop Bot
+    Description: Get price drop alert on products on Amazon via FB Messenger
+    Category:
+    - rec24heVGZi41W8BL
+    URL: https://www.facebook.com/pricedropbot/
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0vTJtemzu2n4ro
+  fields:
+    Name: Coding Memes
+    Description: Epic GIFs for developers
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: https://m.me/272687346480612
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec0x8vvgY6taS8Q3
+  fields:
+    Name: NEXMO
+    Description: 'Messenger bot for the real estate environment '
+    Category:
+    - recE4gu5tJ0gisIQU
+    URL: https://www.messenger.com/t/1749955108573136
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0xTwj7jv2xnPys
+  fields:
+    Name: SayWhat.LoL
+    Description: Search & Share TV Clips, Instantly
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: https://slack.com/oauth/authorize?scope=commands&client_id=3617239597.55044160499
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0xe5JvSgb3s4MN
+  fields:
+    Name: BFF Trump
+    Description: Navigate Trump's hate, from "walls" to "women"
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: https://www.messenger.com/t/bfftrump
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec0xhauvRrexFScN
+  fields:
+    Name: Uniqlo IQ
+    Description: IQ is a new way to shop Uniqlo.
+    Category:
+    - recD2juXgE6qmjKeO
+    URL: http://m.me/uniqloiq.us
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec0zPzqlSJVE3jHB
+  fields:
+    Name: Meme Bot
+    Description: Spice up your team communication with memes
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: https://slack.com/apps/A0H25FSUS-meme-bot
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1248fcHTDf3PT7
+  fields:
+    Name: EmojiBot
+    Description: Find the best emoji to express anything!
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://slack.com/apps/A0HKW0SFK-emojibot
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec1AyqCLO1j7gfFU
+  fields:
+    Name: 'Charity: Water'
+    Description: The first nonprofit to accept donations through Messenger
+    Category:
+    - rectRMmuXs79qEVF7
+    URL: https://www.messenger.com/t/charitywater
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec1CgcnOfgt5HybD
+  fields:
+    Name: Clara bot (Everist)
+    Description: I help you increase focus in your work by prioritizing your day
+    Category:
+    - recvsdNOkg4DVujU3
+    URL: https://m.me/geteverist
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec1DFdsZBthgSgwM
+  fields:
+    Name: AskVoila
+    Description: AskVoila is a personal shopping assistant that helps you shops for
+      watches from Lazada.
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: http://m.me/askvoila
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec1E6ByYVtkeRQNr
+  fields:
+    Name: Server Monitoring Bot
+    Description: Check your website availability every 3 minutes!
+    Category:
+    - rec24heVGZi41W8BL
+    URL: https://www.messenger.com/t/195167740879694
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1QdeP5Gck7x1JH
+  fields:
+    Name: Push For Slack
+    Description: Subscribe to any topic and get major news updates on it as they happen
+    Category:
+    - recE4gu5tJ0gisIQU
+    URL: https://slack.com/oauth/pick?client_id=3128650913.50060393237&scope=bot%2Cincoming-webhook&state=botkit
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1U7uIMzczK1jJ5
+  fields:
+    Name: Alex WikiMessenger
+    Description: A Wikipedia bot for messenger
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: http://m.me/sam.pokemessenger
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec1XXMVaBrqEYzYj
+  fields:
+    Name: Star Wars Bot
+    Description: Become the hero of an interactive space adventure!
+    Category:
+    - recASEQqrzcWuEMNM
+    URL: https://www.messenger.com/t/SWbot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1d3cb5BXf8YkOR
+  fields:
+    Name: SonyaBot
+    Description: Simple daily marketing tasks that get you funded
+    Category:
+    - recE4gu5tJ0gisIQU
+    URL: https://www.messenger.com/t/crowdfundingbot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1ge7ttuExgQLxr
+  fields:
+    Name: Epytom
+    Description: Get rid of excess. Focus on style.
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.messenger.com/t/epytom
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec1hHBKPVkgN1zni
+  fields:
+    Name: slash.photo
+    Description: Find beautiful free stock photos from Unsplash in Slack
+    Category:
+    - rectMm0OT7UQyvsMr
+    URL: http://slash.photo/
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1nilN9hsqmnqbk
+  fields:
+    Name: Mypoolin
+    Description: Payments with friends - Split and Settle. Plan and Pay.
+    Category:
+    - recXZu1Sj7Hwd7BZq
+    URL: https://slack.com/apps/A25TXLUQ7-mypoolin
+    Platform:
+    - Slack
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1q40vgFUfSnbZn
+  fields:
+    Name: Jack
+    Description: Instantly chat with a home expert
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: http://247jack.com
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1s0IfuslBmyiU6
+  fields:
+    Name: Fall in Love
+    Description: 36 questions give you the key to someone's heart!
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.messenger.com/t/36LoveQuestions
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec1sFiBtiyXeg33n
+  fields:
+    Name: Pasos Fronterizos
+    Description: Find updated travel statuses  for Argentina, Chile, and Brasil
+    Category:
+    - recAyeJ719h1opGig
+    URL: https://www.messenger.com/t/pasosfronterizosint
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec1wUWnXZ53OsLeZ
+  fields:
+    Name: FASTEE
+    Description: Connect employees to business apps
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://slack.com/oauth/pick?scope=incoming-webhook%2Cbot%2Cusers.profile%3Aread&client_id=82724098386.82725044197
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec20SAdvimYwsAD7
+  fields:
+    Name: Bender Bot
+    Description: The best ro-bot for advice and anything illegal. Kidding.
+    Category:
+    - recASEQqrzcWuEMNM
+    URL: https://www.messenger.com/t/iambenderbot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec25YLSYrRJm8OCZ
+  fields:
+    Name: Eva
+    Description: A Women's Health chatbot
+    Category:
+    - reclv0RRKBPIXmKfS
+    URL: https://www.messenger.com/t/bots4health
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec2EyXOvpwjB21fX
+  fields:
+    Name: Peas And Carrots
+    Description: Your Brand New Artificial Intelligence Cupid
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.messenger.com/t/PeasAndCarrotsBot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec2HNrHMXsw33Yy4
+  fields:
+    Name: Yogi
+    Description: Help every team end their day with a smile
+    Category:
+    - recPfLbPujX5LLnFo
+    URL: https://slack.com/oauth/pick_reflow?scope=commands%2Cbot&client_id=32880911541.74247018529
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec2LLiUkeQ3DFVQy
+  fields:
+    Name: Tonkean
+    Description: Uncover your business reality with Tonkean's AI
+    Category:
+    - recvsdNOkg4DVujU3
+    URL: https://slack.com/oauth/pick_reflow?scope=identity.basic%2Cidentity.email%2Cidentity.team%2Cidentity.avatar&client_id=3266503248.6567613537&state=com
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec2LV2q7SvmE47h8
+  fields:
+    Name: Carpool Bot
+    Description: Search carpools and connect with other carpoolers
+    Category:
+    - rec24heVGZi41W8BL
+    URL: https://www.messenger.com/t/carpoolbot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec2PxtkS7lKtoBfl
+  fields:
+    Name: Sequel Stories
+    Description: Transform your resume into a bot
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: http://m.me/storiesonsequel
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec2YBOg9uZEyDVkq
+  fields:
+    Name: Tinker Bot
+    Description: Redefining Education
+    Category:
+    - recGJeJTVcuYobLDp
+    URL: https://www.messenger.com/t/1252809894835135
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec2bhvugLyGeImK4
+  fields:
+    Name: BBC Politics
+    Description: Find out more about what Brexit really means
+    Category:
+    - recP4XIdef1FqHfAx
+    URL: http://m.me/bbcpolitics
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec2dfAfo69Hm6e6E
+  fields:
+    Name: App Recommender
+    Description: Get the Best Free App of The Day
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.messenger.com/t/freappforall
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec2fAtgg8H2fizWm
+  fields:
+    Name: mmuze
+    Description: Shopping assistant chatbot-as-a-service
+    Category:
+    - rectRMmuXs79qEVF7
+    URL: https://www.messenger.com/t/mmuze.trends
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec2fL1CELwqZZccz
+  fields:
+    Name: Business on Messenger
+    Description: Have personal, real-time conversations with your customers.
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://www.messenger.com/business
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec2hhq5DKIVb3BIX
+  fields:
+    Name: Amy
+    Description: Meet the right consultant for you business via bot
+    Category:
+    - rectRMmuXs79qEVF7
+    URL: https://m.me/1863400523918931
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec2kiKPIm9c3rlMM
+  fields:
+    Name: Nestor
+    Description: Your Programmable Bot for Slack
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://slack.com/apps/A0GN8RL69-nestor
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec2puaCQqOrhUUGl
+  fields:
+    Name: Emojify
+    Description: Emojify your text on Slack, Telegram and Twitter!
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: https://slack.com/apps/A19D2D6BZ-emojify
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec2rBdyszIavOTyu
+  fields:
+    Name: Welzen
+    Description: A mindfulness meditation bot to help you deal with your everyday
+      life
+    Category:
+    - reclv0RRKBPIXmKfS
+    URL: https://m.me/welzen
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec2tSyiyijPwrSz2
+  fields:
+    Name: Fashion Brobot
+    Description: I will be your personal stylist
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.messenger.com/t/FashionBrobot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec2urntCP0up1Tlx
+  fields:
+    Name: Use Tact
+    Description: The daily check-in, simplified.
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://slack.com/oauth/pick_reflow?scope=commands%2Cbot%2Cusers%3Aread%2Cusers%3Aread.email%2Cchat%3Awrite%3Abot&client_id=91737514112.91745898645&state=curious
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec33IWSWkwOfvHNJ
+  fields:
+    Name: 2048 bot
+    Description: The iconic 2048 game in your chat app
+    Category:
+    - recASEQqrzcWuEMNM
+    URL: https://2048bot.com/oauth/slack
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec33wB7ZsltAZ5T3
+  fields:
+    Name: HolidayBot
+    Description: Help you find lovely holiday cottages in the UK
+    Category:
+    - recAyeJ719h1opGig
+    URL: https://www.facebook.com/bookCottages
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec388GBT5wqKUwFC
+  fields:
+    Name: elth.ai
+    Description: Ask elth any health query
+    Category:
+    - reclv0RRKBPIXmKfS
+    URL: https://www.messenger.com/t/talktoelth
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec3B9ZYTvYYHM3ms
+  fields:
+    Name: GetInsured
+    Description: Health insurance shopping bot
+    Category:
+    - reclv0RRKBPIXmKfS
+    URL: https://www.messenger.com/t/GetInsured
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec3H1SU3XzEOEs4N
+  fields:
+    Name: Urban Hunt
+    Description: Modern day urban adventure with Facebook Messenger
+    Category:
+    - recASEQqrzcWuEMNM
+    URL: https://www.messenger.com/t/urbanhuntapp
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3HdUgWJAo7uuZl
+  fields:
+    Name: DriftBot
+    Description: A chatbot for your knowledge base
+    Category:
+    - recvsdNOkg4DVujU3
+    URL: https://www.drift.com/slack
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec3OLDJfcYZYjyh5
+  fields:
+    Name: mode.ai
+    Description: AI with a Taste in Fashion
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.messenger.com/t/modeai
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3WWWHeC2Q5N3uh
+  fields:
+    Name: Antea ChatBot
+    Description: The ChatBot of Secrets
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://m.me/AnteaChatBot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec3cfF2YkdBbWgDM
+  fields:
+    Name: Netskope for Slack Enterprise
+    Description: Prevent loss of sensitive data & gain visibility into usage of your
+      Slack Enterprise account
+    Category:
+    - recr1FF5zEE4z92G2
+    URL: https://slack.com/apps/A386Y5UMB-netskope-for-slack-enterprise
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3dwQY1pf7wycJD
+  fields:
+    Name: The ShaBot
+    Description: Your Ai assistant for planning an epic Shabbat
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.messenger.com/t/theShaBot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3fPhSDL3pWfnHB
+  fields:
+    Name: Random Chat Bot
+    Description: The new Chatroulette
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://www.messenger.com/t/RandomChatBot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3iPFEiZLnxWg1s
+  fields:
+    Name: To-do bot
+    Description: Simple and powerful to-do list for your team in Slack
+    Category:
+    - recvsdNOkg4DVujU3
+    URL: https://slack.com/oauth/pick?scope=commands%2Cbot%2Cchat%3Awrite%3Abot&client_id=17402340930.17401980801&redirect_uri=https%3A%2F%2Fslack.todobot.io%2Finstall%2Fcallback
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3ijsyTPLQRCwlA
+  fields:
+    Name: BestGift4Her
+    Description: Find the best gift for that special someone in your life
+    Category:
+    - recD2juXgE6qmjKeO
+    URL: https://www.messenger.com/t/1117559308341467
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec3kqiEc0Kz6w0F4
+  fields:
+    Name: Atticus Bot
+    Description: The entertainment chatbot
+    Category:
+    - recASEQqrzcWuEMNM
+    URL: https://www.messenger.com/t/HeyAtticus
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec3oylhgzAfbuJoW
+  fields:
+    Name: FC Barcelona Live App Bot
+    Description: Follow football club Barcelona anytime with your messenger!
+    Category:
+    - recfvmlNEwXqKt5zU
+    URL: https://www.messenger.com/t/barcaliveapp
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec3pkcaFaWtiZo9I
+  fields:
+    Name: MetaCert Security Bot
+    Description: Security, Monitoring and Analytics for Slack
+    Category:
+    - rec24heVGZi41W8BL
+    URL: https://slack.com/oauth/pick_reflow?scope=identify+channels%3Awrite+bot&client_id=4458296977.18621020161
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3qFWVXjiF74sI7
+  fields:
+    Name: CatFacts
+    Description: The most interesting facts about cats
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: https://slack.com/apps/A09K56QTC-catfacts
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec3r1XOUD6I90OIb
+  fields:
+    Name: SyncMusicBot
+    Description: I help you work, relax & exercise better with music you love, right
+      in Slack!
+    Category:
+    - recASEQqrzcWuEMNM
+    URL: https://slack.com/oauth/pick_reflow?client_id=4431658414.80549991890&scope=bot%2Creactions%3Aread%2Creactions%3Awrite&state=botkit
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3sCOubJzW5mxZc
+  fields:
+    Name: Homepage Analytics
+    Description: Analyze your homepage, take suggestion to improve.
+    Category:
+    - rec24heVGZi41W8BL
+    URL: https://www.messenger.com/t/homepageanalytics
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3x3Iv4i289fzzW
+  fields:
+    Name: Standup Jack
+    Description: A Slack Bot for your Standups
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://slack.com/oauth/pick_reflow?scope=channels%3Awrite%2Cbot&client_id=9044105362.21541391878
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3xCxb7trWCMT2L
+  fields:
+    Name: Pigro for President
+    Description: Pigro assistant will distill the news for you
+    Category:
+    - recP4XIdef1FqHfAx
+    URL: https://www.messenger.com/t/PigroForPresident
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec3xW8FZFxZahyfJ
+  fields:
+    Name: Buildkite
+    Description: 'Secure and flexible continuous integration '
+    Category:
+    - rec9iazVll3JAhchr
+    URL: https://slack.com/apps/A0F7YS2CB-buildkite
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec45YMO3wLEpUW4x
+  fields:
+    Name: Graphiq
+    Description: Get interactive breaking-news visualizations on Slack
+    Category:
+    - recP4XIdef1FqHfAx
+    URL: https://slack.com/oauth/pick_reflow?scope=bot%2Ccommands%2Cusers%3Aread%2Cteam%3Aread&client_id=2225323168.53953087363
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4Bs6a9XnLw206L
+  fields:
+    Name: Tettra
+    Description: Wiki for Slack teams
+    Category:
+    - recvsdNOkg4DVujU3
+    URL: https://slack.com/oauth/pick_reflow?client_id=11584090642.17165723526&scope=commands%2Cteam%3Aread%2Cusers%3Aread&redirect_uri=https%3A%2F%2Fapp.tettra.co%2Fauth%2Fslack
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4EbZ5x8g8Xrj93
+  fields:
+    Name: GoFaster.io
+    Description: Website performance intelligence sent daily to your Slack channel.
+    Category:
+    - recr1FF5zEE4z92G2
+    URL: https://gofaster.io
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:40:45.000Z'
+- id: rec4IaGBoBYDJa12v
+  fields:
+    Name: Startup Idea Bot
+    Description: Share your startup ideas and get inspired!
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://www.messenger.com/t/startupideabot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4LpsL0TrmbwohN
+  fields:
+    Name: Guerilla
+    Description: Analyze your competitors' audience with AI
+    Category:
+    - recr1FF5zEE4z92G2
+    URL: https://slack.com/oauth/pick_reflow?scope=incoming-webhook%2Cbot&client_id=2675628079.110828349989
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4P7OFa7ZiHU8Pi
+  fields:
+    Name: ShoppBot
+    Description: Helping you shop for everything you need for your office
+    Category:
+    - recYgiAW3tBfdPNWf
+    URL: https://slack.com/oauth/pick?scope=bot&client_id=3400798291.47205988084
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4RK3ktjYcIAmWW
+  fields:
+    Name: Foodbot
+    Description: Chatbot for ordering food
+    Category:
+    - recm4DjSs0aIkrkaJ
+    URL: https://www.messenger.com/t/bot.food
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec4TxhhDilkol0Eq
+  fields:
+    Name: M
+    Description: A personal assistant built inside Facebook Messenger
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://www.facebook.com/davidm/posts/10156070660595195
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4WrrfBPOzzIQLr
+  fields:
+    Name: Knelfbot
+    Description: A habit-forming way to get your team talking!
+    Category:
+    - recpmyhVuh0dCBFSk
+    URL: https://slack.com/oauth/authorize?scope=bot&client_id=4527525377.34060305858
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4iTdEQOXXFO3xT
+  fields:
+    Name: DataFox Alerts
+    Description: Real-time news alerts when your prospects reach key milestones
+    Category:
+    - recr1FF5zEE4z92G2
+    URL: https://slack.com/oauth/pick_reflow?client_id=3381813695.41803477366&scope=channels%3Aread%2Cchat%3Awrite%3Abot&redirect_uri=https%3A%2F%2Fapp.datafox.com%2Fapi%2Fslack%2Fcallback&state=register-slack
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec4m4zGZSrstOKZ0
+  fields:
+    Name: Invision
+    Description: Streamline your design collaboration by sending your prototype directly
+      to Slack
+    Category:
+    - rectMm0OT7UQyvsMr
+    URL: https://support.invisionapp.com/hc/en-us/articles/205063069
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4mIq680RUaL0yS
+  fields:
+    Name: Evabot
+    Description: Reward your team with real coffee gifts (and beer)
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: https://slack.com/oauth/authorize?scope=commands,bot,incoming-webhook&client_id=55208084419.55768807105&redirect_uri=https://slack.evabot.ai/slack/slackClientCallback
+    Platform:
+    - Slack
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec4mJsETDcSE3GuU
+  fields:
+    Name: 'Champion '
+    Description: The first football gaming chatbot
+    Category:
+    - rec8wpfhH3LRXIBnc
+    URL: https://www.messenger.com/t/championbot
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T17:26:02.000Z'
+- id: rec4oXcMGQIfPZ9Sy
+  fields:
+    Name: Zing!
+    Description: Your News Chatbot
+    Category:
+    - recP4XIdef1FqHfAx
+    URL: https://www.messenger.com/t/1199271013440517
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'
+- id: rec4pcGoMsXDUl146
+  fields:
+    Name: Matt Schlicht
+    Description: Learn about bots, startups, and chasing your goals with Matt Schlicht's
+      personal bot
+    Category:
+    - recT3osAQWm5EbIb6
+    URL: https://m.me/messagematt
+    Platform:
+    - FB Messenger
+  createdTime: '2017-08-16T18:53:57.000Z'

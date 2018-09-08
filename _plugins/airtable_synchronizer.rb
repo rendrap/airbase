@@ -8,13 +8,8 @@ module Jekyll
     priority :highest
 
     def generate(site)
-      site.config['SYNC_WITH_AIRTABLE'] = true
-      site.config['AIRTABLE_API_KEY']   = 'key'
-      site.config['AIRTABLE_BASE_UID']  = 'appMK61yM6IiBJXkg'
-      site.config['AIRTABLE_TABLE_NAMES'] = ['Bots', 'Categories']
-
       return false if site.config['AIRTABLE_API_KEY'].nil? || site.config['AIRTABLE_API_KEY'] == ''
-      return false if site.config['SYNC_WITH_AIRTABLE'] == false
+      return false if site.config['SYNC_WITH_AIRTABLE'] == 'false'
 
       Airtable.configure do |config|
         config.api_key = site.config['AIRTABLE_API_KEY']
