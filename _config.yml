@@ -20,7 +20,6 @@ kramdown:
 highlighter: rouge
 gems:
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
 
 
