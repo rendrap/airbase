@@ -36,9 +36,11 @@ owner:
   disqus-shortname:
 
 collections:
-  categories:
-  bots:
+  use_cases:
+  whitepapers:
     output: true
+  tutorials:
+    output: true    
 
 collections_dir: collections
 

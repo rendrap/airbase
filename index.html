@@ -1,0 +1,12 @@
+---
+layout: archive
+permalink: /
+title: "Integration Between Jekyll And Airtable"
+excerpt: "The items listed in this page were fetched from an Airtable base and can be synchronized at any time by triggering Jekyll build process."
+---
+
+<ul class="thumbnails">
+  {% for paper in site.whitepapers %}
+    {% include record-grid.html %}
+  {% endfor %}
+</ul>

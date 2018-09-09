@@ -1,0 +1,30 @@
+---
+layout: archive
+permalink: /categorized
+title: "Per Categories"
+---
+
+{% for use_case in site.use_cases %}
+  {% if use_case.whitepapers %}
+
+    <div class="row">
+
+      <h5>{{ use_case.use_cases }}</h5>      
+        {% for paper_uid in use_case.whitepapers %}
+          {% for paper in site.whitepapers %}
+            {% if paper.slug == paper_uid %}
+              <div class="col-md-3">  
+                {% include record-grid.html %}
+              </div><!-- /.tiles -->
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+
+    </div>
+
+
+  {% else %}
+    {% continue %}
+  {% endif %}
+
+{% endfor %}

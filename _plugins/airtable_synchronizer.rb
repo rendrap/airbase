@@ -41,6 +41,7 @@ module Jekyll
               out_file.puts("#{snake_key}:")
               write_array_values(out_file, value)
             else
+              value = stringify_value_if_necessary(value)
               out_file.puts("#{snake_key}: #{value}")
             end
           end
@@ -65,8 +66,14 @@ module Jekyll
     def write_array_values(file, array)
       array.each do |element|
         #   - { name: 'Low', color: '#306d8c' }
-        file.puts("   - #{element}")
+        value = stringify_value_if_necessary(element)
+        file.puts("   - #{value}")
       end
+    end
+
+    def stringify_value_if_necessary(value)
+      return "'#{value}'" if value.include?(':')
+      value
     end
   end
 end
