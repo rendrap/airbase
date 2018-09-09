@@ -22,12 +22,50 @@ module Jekyll
         next if records.size == 0
 
         records_as_json      = records['records']
-        converted_table_name = table_name.split(' ').map(&:downcase).join('_')
+        converted_table_name = to_snake(table_name)
+        directory_name       = "collections/_" + converted_table_name
 
-        yaml_file = File.new("_data/airtable/#{converted_table_name}.yml", "w")
-        yaml_file.write(
-          YAML.dump(records_as_json)
-        )
+        Dir.mkdir(directory_name) unless File.exists?(directory_name)
+
+        records_as_json.each do |record_hash|
+          slug     = record_hash['id']
+          out_file = File.new("#{directory_name}/#{slug}.md", "w")
+          out_file.puts(front_matter_mark)
+
+          fields = record_hash['fields']
+
+          fields.each do |key, value|
+            snake_key = to_snake(key)
+
+            if value.class.name == 'Array'
+              out_file.puts("#{snake_key}:")
+              write_array_values(out_file, value)
+            else
+              out_file.puts("#{snake_key}: #{value}")
+            end
+          end
+
+          out_file.puts(front_matter_mark)
+          
+          out_file.close               
+        end
+      end
+    end
+
+    private
+
+    def front_matter_mark
+      '---'
+    end
+
+    def to_snake(string)
+      string.split(' ').map(&:downcase).join('_')
+    end
+
+    def write_array_values(file, array)
+      array.each do |element|
+        #   - { name: 'Low', color: '#306d8c' }
+        file.puts("   - #{element}")
       end
     end
   end

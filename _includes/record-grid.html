@@ -1,0 +1,4 @@
+<article class="tile" itemscope itemtype="http://schema.org/Article">
+  <h2 class="post-title" itemprop="name"><a href="{{ record.url }}">{{ record.name }}</a></h2>
+  <p class="post-excerpt" itemprop="description">{{ record.description | truncate: 160 }}</p>
+</article><!-- /.tile -->

@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Bots Compendium"
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
+{% for record in site.bots %}
+	{% include record-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
