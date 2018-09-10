@@ -32,6 +32,9 @@ module Jekyll
           out_file = File.new("#{directory_name}/#{slug}.md", "w")
           out_file.puts(front_matter_mark)
 
+          # Store the uid
+          out_file.puts("uid: #{slug}")
+
           fields = record_hash['fields']
 
           fields.each do |key, value|

@@ -37,12 +37,19 @@ owner:
 
 collections:
   use_cases:
+    output: true
   whitepapers:
     output: true
   tutorials:
     output: true    
 
 collections_dir: collections
+defaults:
+  - scope:
+      type: "whitepapers"
+    values:
+      layout: "page"
+
 
 include:
   - .htaccess
