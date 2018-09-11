@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/galliani/airtable_client.git
-  revision: 121e322f82a07e7c77fb5f6c8ddecdbcd1d8b13f
-  specs:
-    airtable (0.1.0)
-      faraday (~> 0.11.0)
-      faraday_middleware (~> 0.10.1)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -43,6 +35,10 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-airtable (0.1.0)
+      faraday (~> 0.11.0)
+      faraday_middleware (~> 0.10.1)
+      jekyll (~> 3.3)
     jekyll-feed (0.5.1)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -77,10 +73,10 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  airtable!
   byebug
   dotenv
   jekyll (= 3.7.2)
+  jekyll-airtable (~> 0.1.0)
   jekyll-feed
   jekyll-sitemap
 
